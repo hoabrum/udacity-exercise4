@@ -81,7 +81,7 @@ I implemented unit tests demonstrating
 
 Some Splunk screen-shots:
 
-!["Create user" search](./image/Create_user.jpg)
+!["Create user" search](./image/CreateUser.jpg)
 ![Email alert](./image/Alert.jpg)
 ![Visualization](image/Visualazation.JPG)
 

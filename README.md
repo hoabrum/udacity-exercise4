@@ -78,8 +78,8 @@ I implemented unit tests demonstrating at least 93% class coverage, 91% method c
 
 Some Splunk screen-shots:
 
-!["Create user" search](image/Create_user.jpg)
-![Email alert](image/Alert.jpg)
+!["Create user" search](./image/Create_user.jpg)
+![Email alert](./image/Alert.jpg)
 ![Visualization](image/Visualazation.JPG)
 
 ## Jenkins

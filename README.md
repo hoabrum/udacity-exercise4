@@ -72,7 +72,10 @@ POST /login
 and that will, if those are valid credentials, return a 200 OK with an Authorization header which looks like "Bearer <data>" this "Bearer <data>" is a JWT and must be sent as a Authorization header for all other rqeuests. If it's not present, endpoints return 401 Unauthorized. If it's present and valid, the endpoints function as normal.
 
 ## Testing
-I implemented unit tests demonstrating at least 93% class coverage, 91% method coverage, and 80% line coverage.
+I implemented unit tests demonstrating
+ controller package:  100% class coverage, 100% method and 84% line coverage.
+ security package:  80% class coverage, 100% method and 90% line coverage.
+ service package:  100% class coverage, 100% method and 100% line coverage.
 
 ## Splunk
 
